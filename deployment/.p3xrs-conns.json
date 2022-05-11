@@ -1,0 +1,12 @@
+{
+  "list": [
+    {
+      "name": "本地",
+      "host": "192.168.49.218",
+      "port": 6379,
+      "password": "",
+      "id": "local"
+    }
+  ],
+  "license": ""
+}
